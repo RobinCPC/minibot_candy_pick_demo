@@ -1,7 +1,10 @@
 # MiniBOT candy picking demo
-This demo presents how to use NexCOBOT MiniBOT to pick candy with AWS SageMaker as inference engine.
+This demo presents how to use NexCOBOT [MiniBOT](http://www.nexcom.com/Products/industrial-computing-solutions/machine-automation/education-robot-solution/ethercat-nexrobo-minibot-robot) to pick candy with AWS SageMaker as inference engine.
 
 In this demo, we use AWS SageMaker to label our candy dataset, train a SSD model, and setup endpoint to do inference.
+I will create another repo for the detail. 
+
+
 Here is the result of the inference:
 ![](./inference_result.png)
 
@@ -76,3 +79,5 @@ cd Document\NexMotion-Python_API\minibot_candy_pick_demo
 jupyter notebook
 ```
 
+In addition, I also use ipywidgets to create robot controller WebUI in Jupyterlab. Here is the screenshot:
+![](./ipywidgets_robot_webUI.jpg)
