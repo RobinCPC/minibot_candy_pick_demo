@@ -5,8 +5,12 @@ In this demo, we use AWS SageMaker to label our candy dataset, train a SSD model
 I will create another repo for the detail. 
 
 
-Here is the result of the inference:
-![](./inference_result.png)
+Here is the result of the inference (also a youtube link of demo video):
+
+<a href="https://youtu.be/2Wl_zsUDQKc">
+  <img src="./inference_result.png" alt="SageMaker inference result" width="100%" height="auto">
+</a>
+
 
 ## System Architecture
 ![](./AWS_MiniBOT_Pick_Jupyter.png)
@@ -79,5 +83,8 @@ cd Document\NexMotion-Python_API\minibot_candy_pick_demo
 jupyter notebook
 ```
 
-In addition, I also use ipywidgets to create robot controller WebUI in Jupyterlab. Here is the screenshot:
-![](./ipywidgets_robot_webUI.jpg)
+In addition, I also use ipywidgets to create robot controller WebUI in Jupyterlab.  
+Here is the screenshot (also a youtube link of demo video):
+<a href="https://youtu.be/Yj4uIBeA2f8">
+  <img src="./ipywidgets_robot_webUI.jpg" alt="Closed-form IK demo" width="100%" height="auto">
+</a>
