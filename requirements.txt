@@ -4,7 +4,7 @@ backports.shutil-get-terminal-size==1.0.0
 backports.shutil-which==3.5.2
 backports.ssl-match-hostname==3.7.0.1
 bcrypt==3.1.7
-bleach==3.1.2
+bleach==3.1.4
 boto3==1.10.2
 botocore==1.13.2
 cached-property==1.5.1
