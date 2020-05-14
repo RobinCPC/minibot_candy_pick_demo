@@ -56,7 +56,6 @@ pandocfilters==1.4.2
 paramiko==2.6.0
 pathlib2==2.3.3
 pickleshare==0.7.5
-Pillow==6.2.1
 prometheus-client==0.5.0
 prompt-toolkit==1.0.15
 protobuf==3.10.0
