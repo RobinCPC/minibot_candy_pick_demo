@@ -58,7 +58,7 @@ pathlib2==2.3.3
 pickleshare==0.7.5
 prometheus-client==0.5.0
 prompt-toolkit==1.0.15
-protobuf==3.15.0
+protobuf==3.18.3
 protobuf3-to-dict==0.1.5
 pycparser==2.19
 Pygments==2.7.4
