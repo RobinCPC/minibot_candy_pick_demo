@@ -74,7 +74,7 @@ pyzmq==17.1.2
 qtconsole==4.4.3
 requests==2.31.0
 s3transfer==0.2.1
-sagemaker==1.43.4
+sagemaker==2.218.0
 scandir==1.9.0
 scipy==1.10.0
 Send2Trash==1.5.0
