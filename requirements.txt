@@ -61,7 +61,7 @@ prompt-toolkit==1.0.15
 protobuf==3.18.3
 protobuf3-to-dict==0.1.5
 pycparser==2.19
-Pygments==2.15.0
+Pygments==2.20.0
 PyNaCl==1.6.2
 pyparsing==2.4.2
 pypiwin32==219
